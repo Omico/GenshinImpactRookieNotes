@@ -30,4 +30,4 @@ sidebar: auto
 
 **用原石购买相遇之缘属于浪费行为，请优先购买纠缠之缘。**
 
-具体的说明请移步抽卡建议。
+具体的说明请移步[抽卡建议](../gacha-recommendations/README.md)。
