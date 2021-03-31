@@ -28,7 +28,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: gh-pages
-          keep_history: true
           allow_empty_commit: false
           build_dir: docs/.vuepress/dist
           commit_message: "Auto deploy for commit ${{ steps.short-sha.outputs.sha }}"
