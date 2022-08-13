@@ -1,4 +1,7 @@
 import {
+  gitPlugin,
+} from '@vuepress/plugin-git';
+import {
   defaultTheme,
   defineUserConfig,
 } from 'vuepress';
@@ -20,5 +23,12 @@ export default defineUserConfig(
         ],
       },
     ),
+    plugins: [
+      gitPlugin(
+        {
+          contributors: false,
+        }
+      )
+    ]
   }
 )
