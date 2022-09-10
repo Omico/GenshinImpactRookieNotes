@@ -12,12 +12,13 @@ sidebar: false
 
 **以下是具体分类，请旅行者根据自身需求进行阅读：**
 
-- [工具](./tools/README.md)
+- [工具](tools/README.md)
+- [角色](characters/README.md)
 - 注意事项
-  - [世界](./precautions/world/README.md)
-  - [角色与队伍配置思路](./precautions/character-and-party-collocation-ideas/README.md)
-  - [成就](./precautions/achievements/README.md)
-  - [材料](./precautions/materials/README.md)
-  - [抽卡建议](./precautions/gacha-recommendations/README.md)
-  - [商城](./precautions/shop/README.md)
-  - [氪金](./precautions/top-up/README.md)
+    - [世界](precautions/world/README.md)
+    - [角色与队伍配置思路](precautions/character-and-party-collocation-ideas/README.md)
+    - [成就](precautions/achievements/README.md)
+    - [材料](precautions/materials/README.md)
+    - [抽卡建议](precautions/gacha-recommendations/README.md)
+    - [商城](precautions/shop/README.md)
+    - [氪金](precautions/top-up/README.md)
