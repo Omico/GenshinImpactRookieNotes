@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "npm:update": "npm update",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
   "author": "Omico",
-  "license": "ISC",
+  "license": "CC-BY-NC-SA-4.0",
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.49"
+    "vuepress": "next"
   }
 }
