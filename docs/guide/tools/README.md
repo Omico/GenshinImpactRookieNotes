@@ -30,7 +30,7 @@ B 站也有建立 Wiki，当然主要原因是因为前期官方疏于社区建�
 
 都是由玩家发布的攻略。
 
-### [原神 748 个成就与 175 个每日委托汇总](https://docs.qq.com/sheet/DS01hbnZwZm5KVnBB)
+### [原神成就与每日委托汇总](https://docs.qq.com/sheet/DS01hbnZwZm5KVnBB)
 
 快速查找包含成就的每日任务，以及获取方法，有剧透。~~（废话）~~
 
