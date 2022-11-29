@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-882e42ce","path":"/guide/characters/","title":"角色","lang":"en-US","frontmatter":{"sidebar":false},"excerpt":"","headers":[],"filePathRelative":"guide/characters/README.md","git":{"createdTime":1662782446000,"updatedTime":1662782446000}}');export{e as data};

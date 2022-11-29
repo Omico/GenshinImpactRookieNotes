@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6081a296","path":"/first-acquaintance/","title":"初识原神","lang":"en-US","frontmatter":{"sidebar":false,"next":"../guide/","editLink":false},"excerpt":"","headers":[],"filePathRelative":"first-acquaintance/README.md","git":{"createdTime":1616361000000,"updatedTime":1616361000000}}');export{e as data};
